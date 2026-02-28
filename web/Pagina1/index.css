@@ -1,0 +1,78 @@
+body{
+    background-color: wheat;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+body p{
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 27px;
+}
+.header{
+    background-color: burlywood;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+.content{
+    padding: 10px;
+    text-align: center;
+}
+table{
+    margin: 0 auto;
+    background-color: burlywood;
+    margin-bottom: 50px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 25%;
+    border-color: bisque;
+    border-width: 2px;
+    border-style: solid;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+.menu{
+    padding: 10px;
+    text-align: center;
+    background-color: burlywood;
+}
+.menu h2{
+    color: #333;
+}
+li{
+    color: #333;
+    font-size: 18px;
+    margin: 10px 0;
+}
+.horarios_atencion img{
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    vertical-align: middle;
+    margin-right: 10px;    
+}
+button{
+    background-color: burlywood;
+    color: #333;
+    border: 1px solid #333;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    display: block;
+}
+footer{
+    background-color: burlywood;
+    padding: 10px;
+}
+footer p{
+    color: #333;
+    font-size: 15px;
+}
